@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.blaze.flames.preferences;
+package com.fusion.reactor.preferences;
 
 import android.content.Context;
 import android.content.om.IOverlayManager;
